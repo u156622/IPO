@@ -1,0 +1,54 @@
+/*
+    SILVIA MARTÍN MARÍA
+    u156622@usal.es
+    70909468-P
+    
+*/
+
+/*
+#cabecera{
+    background-image: url("logo_Doraemon.png"); /* falta cambiar esto a ruta de carpetas
+    background-repeat: no-repeat;
+    background-size: 200px, 300px;
+    background-position: 50%, 50%;
+    background-attachment: center;
+    background-color: #f8cee0;
+    border-radius: 5px;
+    height: 80px;
+    margin: 3px;
+}
+
+
+#cabecera{
+    background-image: url("../imagenes/cabecera_peliculas.jpg"); /* falta cambiar esto a ruta de carpetas
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 5px;
+    height: 150px;
+}
+*/
+
+.cabeceraDoraemon{
+    background-image: url("../imagenes/cabecera_peliculas.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 5px;
+    height: 50px;
+    display: block;
+}
+
+.principal{
+    
+    background-image: url("../imagenes/FotoPrincipal_edit.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    display: block;
+    
+    /*
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: 'Mina', sans-serif;
+    */
+}
