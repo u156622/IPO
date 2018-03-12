@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<!-- CABECERA -->
+<head>
+<link rel="stylesheet" href="css/main.css">
+
+</head>
+
+<!--CABECERA CON LINEA DE PELICULA PARA UN INICIO SI SE DESEA-->
+<div class="cabeceraDoraemon"></div>
+
+<!-- FOTO PRINCIPAL DE FONDO CON FOTO DE LA PORTADA DE LA PELICULA. -->
+<div class="principal">
+	<img src="imagenes/standByMe.png" hspace="10" vspace="40">
+	<!--<img src="imagenes/standByMe.png" hspace="10" vspace="40" class="image">-->
+    <div class="text">Mi texto</div>
+</div>
+	
+</html>
